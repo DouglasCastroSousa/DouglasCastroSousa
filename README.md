@@ -1,12 +1,9 @@
-### olá, eu sou Douglas, louco por Python e lógica da programação
+### Hello, I'm Douglas, Python and logic programming enthusiast 💻👨‍💻
 
-- 🌱 I’m currently learning Python Back-end
-- 💬 Ask me about Python 
-- 😉 Pronouns: he / him
-
+-  I’m currently studying Python Back-end, can you ask me some question about it, i will be happy to answer😁
 ##
 
-<div> 
+<div align="center"> 
   <a href="https://beacons.ai/DouglasCastroSousa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DouglasCastroSousa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasCastroSousa&layout=compact&langs_count=16&theme=github_dark">
