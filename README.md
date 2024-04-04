@@ -8,15 +8,15 @@
 
 <div> 
   <a href="https://beacons.ai/DouglasCastroSousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasCastroSousa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasCastroSousa&layout=compact&langs_count=16&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasCastroSousa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasCastroSousa&layout=compact&langs_count=16&theme=github_dark">
 </div>
 
 ##
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Coder" height="180" width="240" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-17.gif" border-radius:10px;>
+  <img align="right" alt="Coder" height="180" width="300" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-17.gif">
 </div>
   <br>
 
