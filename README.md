@@ -12,7 +12,9 @@
 ##
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Doug_Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Doug_Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <img align="center" alt="Doug_Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
   <img align="right" alt="Coder" height="180" width="300" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-17.gif">
 </div>
   <br>
