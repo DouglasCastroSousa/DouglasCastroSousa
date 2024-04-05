@@ -1,4 +1,4 @@
-### Hello, I'm Douglas, Python and logic programming enthusiast 💻👨‍💻
+### Hello, I'm Douglas, a Python and logic programming enthusiast 💻👨‍💻
 
 -  I’m currently studying Python Back-end, can you ask me some question about it, i will be happy to answer😁
 ##
