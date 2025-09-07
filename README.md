@@ -1,12 +1,15 @@
-### Hello, I'm Douglas, Python and logic programming enthusiast 💻👨‍💻
+## I'm Douglas – Computer Science Student & Python Back-End Enthusiast 💻👨‍💻
 
--  I’m currently studying Python Back-end, can you ask me some question about it, i will be happy to answer😁
+- I'm currently pursuing a degree in Computer Science.
+- Feel free to see some of my public projects here in GitHub
+- OPEN TO WORK (looking for a internship / or Junior)
+
 ##
 
 <div align="center"> 
   <a href="https://beacons.ai/DouglasCastroSousa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DouglasCastroSousa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasCastroSousa&layout=compact&langs_count=16&theme=github_dark">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasCastroSousa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false">
 </div>
 
 ##
