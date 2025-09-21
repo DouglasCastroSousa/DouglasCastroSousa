@@ -1,4 +1,4 @@
-## I'm Douglas – Computer Science Student & Python Back-End Enthusiast 💻👨‍💻
+## I'm Douglas – Computer Science Student & Python Back-End 💻👨‍💻
 
 - I'm currently pursuing a degree in Computer Science.
 - Feel free to see some of my public projects here in GitHub
